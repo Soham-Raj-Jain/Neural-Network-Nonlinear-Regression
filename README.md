@@ -25,11 +25,11 @@
 
 | Colab | Description | Video Link |
 |-------|-------------|------------|
-| **A** | NumPy Scratch + tf.einsum + Manual Backprop | 📹 [Watch Colab A Walkthrough](#https://youtu.be/1JBfyUDXbws) |
-| **B** | PyTorch Scratch (no nn.Module) | 📹 [Watch Colab B Walkthrough](#https://youtu.be/UtS7XnKtlxo) |
-| **C** | PyTorch Classes (nn.Module) | 📹 [Watch Colab C Walkthrough](#https://youtu.be/VZXFs4hR2sk) |
-| **D** | PyTorch Lightning | 📹 [Watch Colab D Walkthrough](#https://youtu.be/JWfY0DLmDFk) |
-| **E** | TensorFlow All 4 Variants | 📹 [Watch Colab E Walkthrough](#https://youtu.be/RsiirmoY0NI) |
+| **A** | NumPy Scratch + tf.einsum + Manual Backprop | 📹 [Watch Colab A Walkthrough](https://youtu.be/1JBfyUDXbws) |
+| **B** | PyTorch Scratch (no nn.Module) | 📹 [Watch Colab B Walkthrough](https://youtu.be/UtS7XnKtlxo) |
+| **C** | PyTorch Classes (nn.Module) | 📹 [Watch Colab C Walkthrough](https://youtu.be/VZXFs4hR2sk) |
+| **D** | PyTorch Lightning | 📹 [Watch Colab D Walkthrough](https://youtu.be/JWfY0DLmDFk) |
+| **E** | TensorFlow All 4 Variants | 📹 [Watch Colab E Walkthrough](https://youtu.be/RsiirmoY0NI) |
 
 > 🔔 **Note:** Replace `#` links with your actual YouTube/Loom/Drive video URLs after recording.
 
