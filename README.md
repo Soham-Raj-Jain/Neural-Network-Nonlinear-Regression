@@ -41,8 +41,6 @@
 
 ### 📓 Colab A — NumPy From-Scratch with `tf.einsum`
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/colab_a_numpy_scratch.ipynb)
-
 **File:** `colab_a_numpy_scratch.ipynb`
 
 #### What It Does
@@ -76,8 +74,6 @@ Input (3) → Hidden1 (16, Swish) → Hidden2 (8, Swish) → Output (1, Linear)
 
 ### 📓 Colab B — PyTorch From Scratch (No `nn.Module`)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/colab_b_pytorch_scratch.ipynb)
-
 **File:** `colab_b_pytorch_scratch.ipynb`
 
 #### What It Does
@@ -108,8 +104,6 @@ Input (3) → Hidden1 (16, Swish) → Hidden2 (8, Swish) → Output (1, Linear)
 
 ### 📓 Colab C — PyTorch Classes (`nn.Module`)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/colab_c_pytorch_classes.ipynb)
-
 **File:** `colab_c_pytorch_classes.ipynb`
 
 #### What It Does
@@ -135,8 +129,6 @@ Input (3) → Dense(16) + Swish → Dense(8) + Swish → Dense(1)
 ---
 
 ### 📓 Colab D — PyTorch Lightning
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/colab_d_pytorch_lightning.ipynb)
 
 **File:** `colab_d_pytorch_lightning.ipynb`
 
@@ -171,8 +163,6 @@ Input (3) → Dense(16) + Swish → Dense(8) + Swish → Dense(1)
 ---
 
 ### 📓 Colab E — TensorFlow: All 4 Variants
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/colab_e_tensorflow_variants.ipynb)
 
 **File:** `colab_e_tensorflow_variants.ipynb`
 
@@ -333,10 +323,4 @@ jupyter notebook colab_a_numpy_scratch.ipynb
 | He initialization | All |
 | Swish activation | All |
 
----
 
-## 👤 Author
-
-**[Your Name]** — [Your Institution / Course Name]
-
-> Built for: Deep Learning Assignment — 3-Layer Neural Network Nonlinear Regression
